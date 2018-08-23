@@ -21,6 +21,8 @@ namespace hosting
         public void Configure(IApplicationBuilder app)
         {
             app.UseMiddleware<MyMiddleware>();
+            
+            app.UseStaticFiles();
 
             var aplicationName = _configuration.GetValue<string>("ApplicationName");
 
