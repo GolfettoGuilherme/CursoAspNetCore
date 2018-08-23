@@ -1,0 +1,11 @@
+C:\curso_aspcore\hosting\bin\Debug\netcoreapp2.1\hosting.deps.json
+C:\curso_aspcore\hosting\bin\Debug\netcoreapp2.1\hosting.runtimeconfig.json
+C:\curso_aspcore\hosting\bin\Debug\netcoreapp2.1\hosting.runtimeconfig.dev.json
+C:\curso_aspcore\hosting\bin\Debug\netcoreapp2.1\hosting.dll
+C:\curso_aspcore\hosting\bin\Debug\netcoreapp2.1\hosting.pdb
+C:\curso_aspcore\hosting\obj\Debug\netcoreapp2.1\hosting.csprojAssemblyReference.cache
+C:\curso_aspcore\hosting\obj\Debug\netcoreapp2.1\hosting.csproj.CoreCompileInputs.cache
+C:\curso_aspcore\hosting\obj\Debug\netcoreapp2.1\hosting.AssemblyInfoInputs.cache
+C:\curso_aspcore\hosting\obj\Debug\netcoreapp2.1\hosting.AssemblyInfo.cs
+C:\curso_aspcore\hosting\obj\Debug\netcoreapp2.1\hosting.dll
+C:\curso_aspcore\hosting\obj\Debug\netcoreapp2.1\hosting.pdb
